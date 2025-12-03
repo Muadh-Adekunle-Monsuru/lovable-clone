@@ -1,5 +1,5 @@
 import React from 'react';
 
-export default function Page() {
-	return <div className='font-bold'>Hello Pages</div>;
+export default async function Page() {
+	return <div className='font-bold'></div>;
 }
